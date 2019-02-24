@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Call for Papers
 ---
 
@@ -12,7 +12,7 @@ This workshop will explore how artificial intelligence can contribute to solving
 * Ethics
 * Fairness and biases
 
-Submissions are due <b> April 12</b>. The submission site will be posted closer to that date..
+Submissions are due <b> April 12</b>. The submission site will be posted closer to that date.
 
 
 <div class="posts">
