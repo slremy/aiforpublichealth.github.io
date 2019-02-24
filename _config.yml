@@ -8,7 +8,7 @@ title:            AI for <br> Social Good
 tagline:          'IJCAI 2019 Workshop'
 description:      'IJCAI 2019 Workshop'
 url:              "http://aiforgood2019.github.io"
-baseurl:          "http://aiforgood2019.github.io"
+baseurl:          "/"
 
 paginate:         5
 
