@@ -14,21 +14,3 @@ This workshop will explore how artificial intelligence can contribute to solving
 
 Submissions are due <b> April 12</b>. The submission site will be posted closer to that date.
 
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-
