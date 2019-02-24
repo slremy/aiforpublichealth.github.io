@@ -1,2 +1,18 @@
-remote_theme: poole/hyde
-url: "https://aiforgood2019.github.io"`
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            AI for <br> Social Good
+tagline:          'IJCAI 2019 Workshop'
+description:      'IJCAI 2019 Workshop'
+url:              http://aiforgood2019.github.io
+baseurl:          /
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
