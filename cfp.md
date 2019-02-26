@@ -16,7 +16,7 @@ Submissions are due <b> April 12</b>. The submission site will be posted closer 
 
 * Research papers describing novel contributions in either the development of AI techniques (motivated by societal applications), or their deployment in practice. Both work in progress and recently published work will be considered. Submissions describing recently published work should clearly indicate the earlier venue and provide a link to the published paper. Papers in this category should be at most <b>4 pages</b>, with one additional page containing only references. 
 
-* Position papers describing open problems, neglected perspectives on the field, proposing ideas for bringing computational methods into a new application area, or summarizing the focus areas of a group working on AI for social good.
+* Position papers describing open problems, neglected perspectives on the field, proposing ideas for bringing computational methods into a new application area, or summarizing the focus areas of a group working on AI for social good. Papers in this category should be at most <b>3 pages</b>, with one additional page containing only references. 
 
-The workshop will not have a formal published proceedings, but we will provide links to accepted papers along with the program. Accepted papers will be selected for oral and poster presentation based on peer review. Submissions are not double-blind; the submitted paper should include author names and affiliations. 
+All papers should be submitted in IJCAI format. The workshop will not have a formal published proceedings, but we will provide links to accepted papers along with the program. Accepted papers will be selected for oral and poster presentation based on peer review. Submissions are not double-blind; the submitted paper should include author names and affiliations. 
 
