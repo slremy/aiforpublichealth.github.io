@@ -10,6 +10,11 @@ This workshop will explore how artificial intelligence can contribute to solving
 
 The workshop will be held in conjunction with the 28th International Joint Conference on Artificial Intelligence (IJCAI-19), in Macao, China.
 
+## Sponsorship
+![alt text](microsoft_logo.png "Microsoft Research")
+![alt text](wadhwani_logo.png "Wadhwani AI")
+
+
 
 <div class="posts">
   {% for post in paginator.posts %}
