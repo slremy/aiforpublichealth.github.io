@@ -7,7 +7,7 @@ We have a limited amount of funding available to help cover travel costs for wor
 
 **Application Deadline**: May 12, 2019. 
 
-**Process**:Please email Ezinne Nwankwo (enwankwo17@gmail.com) and Bryan Wilder (bryan.wilder0@gmail.com) by the deadline with the subject line "IJCAI workshop travel award". Include your name, affiliation, and whether you have or plan to submit a workshop paper. We will be in contact to request additional information as needed. 
+**Process**: Please email Ezinne Nwankwo (enwankwo17@gmail.com) and Bryan Wilder (bryan.wilder0@gmail.com) by the deadline with the subject line "IJCAI workshop travel award". Include your name, affiliation, and whether you have or plan to submit a workshop paper. We will be in contact to request additional information as needed. 
 
 
 <div class="posts">
