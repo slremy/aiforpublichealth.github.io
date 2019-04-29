@@ -3,7 +3,7 @@ layout: page
 title: Travel Awards
 ---
 
-We have a limited amount of funding available to help cover travel costs for workshop participants. Participants who expect to need travel support should apply to the IJCAI [travel grants](https://www.ijcai19.org/travel-grants.html) and, if applicable [student volunteer](https://www.ijcai19.org/call-for-volunteers.html) program (once those applications become available). Our travel awards will supplement this funding. Awards will be made based on participant need and relevance to the workshop, with preference given to individuals who have submitted a workshop paper.         
+We have a limited amount of funding available to help cover travel costs for workshop participants. Participants who expect to need travel support should apply to the IJCAI [travel grants](https://www.ijcai19.org/travel-grants.html) and, if applicable, [student volunteer](https://www.ijcai19.org/call-for-volunteers.html) program (once those applications become available). Our travel awards will supplement this funding. Awards will be made based on participant need and relevance to the workshop, with preference given to individuals who have submitted a workshop paper.         
 
 **Application Deadline**: May 12, 2019. 
 
