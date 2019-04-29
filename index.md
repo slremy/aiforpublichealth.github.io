@@ -13,9 +13,7 @@ The workshop will be held in conjunction with the 28th International Joint Confe
 
 ## Sponsorship:
 
-![alt text](microsoft_logo.png "Microsoft Research")
-
-![alt text](wadhwani_logo.png "Wadhwani AI")
+![alt text](microsoft_logo.png "Microsoft Research") ![alt text](wadhwani_logo.png "Wadhwani AI")
 
 
 
