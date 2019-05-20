@@ -3,7 +3,7 @@ layout: page
 title: Organization
 ---
 
-# Organizing Committee
+## Organizing Committee
 
 * Nika Haghtalab (Microsoft Research, New England)
 * Eric Horvitz (Microsoft Research, Redmond)
@@ -11,7 +11,7 @@ title: Organization
 * Andreas Theodorou (Umeå University)
 * Bryan Wilder (University of Southern California)
 
-# Program Committee
+## Program Committee
 
 * Andrea Aler Tubella (Umeå University)
 * Elizabeth Bondi (University of Southern California)
