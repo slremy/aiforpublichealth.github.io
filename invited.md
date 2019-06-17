@@ -3,13 +3,13 @@ layout: page
 title: Invited Speakers
 ---
 
-## Sharad Goel
+### Sharad Goel
 Assistant Professor, Department of Management Science & Engineering, Stanford University
 
-## Hongying Lilian Tang
+### Hongying Lilian Tang
 Senior Lecturer, Department of Computer Science, University of Surrey
 
-## Stefano Ermon
+### Stefano Ermon
 Assistant Professor, Department of Computer Science, Stanford University
 
 
