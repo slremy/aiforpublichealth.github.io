@@ -25,7 +25,7 @@ title: Accepted Papers
 * Muhammed Razzak and Kris Sankaran. Interactive Segmentation for Disaster Relief Mapping.
 * Debarun Bhattacharjya, Karthikeyan Shanmugam, Tian Gao, Nicholas Matteiand Kush Varshney. Event-Driven Continuous Time Bayesian Networks: An Application in Modeling Progression out of Poverty through Integrated Social Services.
 * Tiago Pinto and Zita Vale. An adaptive system for decision support of electricity markets negotiations.
-* Daniel Mutembesa. Incentive allocation function for mobile community sensing with smallholder farmers in a developing nation..
+* Daniel Mutembesa. Incentive allocation function for mobile community sensing with smallholder farmers in a developing nation.
 * Yiwen Yuan, Kimberly Lo, Zheyuan Ryan Shi, Leah Lizarondo and Fei Fang. Efficiency and Fairness of Food Rescue Platforms: An Initial Study.
 * Ryoji Wada, Kentaro Yahiro, Taiki Todo and Makoto Yokoo. Achieving a Fair Matching under Partial Information.
 * Mirka Snyder Caron and Abhishek Gupta. The Social Contract for AI.
