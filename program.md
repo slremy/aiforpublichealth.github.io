@@ -17,7 +17,7 @@ title: Program
 
 **10:30-11:00: Poster session** 
 
-**11:00-11:45: Invited talk: Shahrad Goel**
+**11:00-11:45: Invited talk: Sharad Goel**
 
 **11:45-12:30: Applications**
 
