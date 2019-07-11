@@ -6,7 +6,7 @@ title: Accepted Papers
 * Takayuki Ito, Shota Suzuki, Naoko Yamaguchi, Tomohiro Nishida, Kentaro Hiraishi and Kai Yoshino. Towards Smarter Democracy: An Agent-based Large-scale Discussion Support System.
 * Elizabeth Bondi, Hoon Oh, Haifeng Xu, Fei Fang, Bistra Dilkina and Milind Tambe. Protecting Animals From Poaching: Using Uncertain Real-Time Information in Signaling Games.
 * Sonam Damani, Nitya Raviprakash, Ankush Chatterjee, Meghana Joshi and Puneet Agrawal. Using AI for Economic Upliftment of Handicraft Industry.
-* Dereje Ashenafi, Zelalem Mihret, Alemenew Shiferaw. Web based Expert system for the prevention, diagnosis and treatment of Malaria using two Ethiopian local languages (Amharic & Afan Oromo).
+* Dereje Yohannes Ashenafi, Zelalem Mihret, Alemenew Shiferaw. Web based Expert system for the prevention, diagnosis and treatment of Malaria using two Ethiopian local languages (Amharic & Afan Oromo).
 * Haris Aziz, Serge Gaspers and Zhaohong Sun. Mechanism Design for School Choice with Soft Diversity Constraints.
 * Santosh Misra and Dibu Philip. Predictive and prescriptive governance - improved delivery of government services.
 * Kalkidan Gezahegn and Sudeshna Chakraborty. Automatic Target Recognition and Classification from Synthetic Aperture Radar Imagery using Multi-Stream Convolution Neural Network.
