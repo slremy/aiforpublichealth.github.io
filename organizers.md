@@ -9,7 +9,7 @@ title: Organization
 * Eric Horvitz (Microsoft Research, Redmond)
 * Ezinne Nwankwo (Duke University)
 * Andreas Theodorou (Umeå University)
-* Bryan Wilder (University of Southern California)
+* Bryan Wilder (Harvard University/University of Southern California)
 
 ## Program Committee
 
