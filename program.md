@@ -41,7 +41,7 @@ Sonam Damani, Nitya Raviprakash, Ankush Chatterjee, Meghana Joshi and Puneet Agr
 
 **4:00-4:30pm: Development**
 
-Dereje Ashenafi, Zelalem Mihret, Alemenew Shiferaw. Web based Expert system for the prevention, diagnosis and treatment of Malaria using two Ethiopian local languages (Amharic & Afan Oromo).
+Dereje Yohannes Ashenafi, Zelalem Mihret, Alemenew Shiferaw. Web based Expert system for the prevention, diagnosis and treatment of Malaria using two Ethiopian local languages (Amharic & Afan Oromo).
 
 Daniel Mutembesa. Incentive allocation function for mobile community sensing with smallholder farmers in a developing nation.	
 	
