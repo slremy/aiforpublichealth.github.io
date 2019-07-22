@@ -27,6 +27,9 @@ Patients’ data are dynamic and complex, varying across pathological conditions
 
 This talk will walk through a few applications of deep learning in the medical domain that take advantage of clinical data in natural language texts, images and videos for the assessment of disease conditions, diagnosis and treatment management of patients as well as training for skilled doctors. It will then look into how to address the issues that arise when only noisy, limited or unlabelled data are mostly available when engineering such tools, with an effort to bridge the gaps between the ways of how machines and clinicians deal with data. Approaches on deriving clinically relevant evidence for supporting the prediction from learning algorithms and how context plays a key role in such process will be explored.
 
+Dr Lilian Tang received her PhD from the University of Cambridge in medical informatics and currently is working at the University of Surrey as a Reader in AI. She is interested in applying machine learning to image and natural language text analysis, with a particular focus on the medical domain. Over the last decade, she has been working with a number of NHS hospitals, as well as hospitals in Europe and Mid and Far-east Asia, on a wide range of projects including: the development of automated tracking of fine movements of surgical instruments in eye and other microsurgeries, for objective dexterity analysis; digital retinal image analysis to understand various eye and systemic conditions; time-lapse bacterial cell image analysis for understanding mycobacterial persistence; and natural language processing on medical records. A key feature of her work is that she always uses the AI systems to gain a deeper understanding of their problem domain, and does not simply aim to replicate human-level performance.
+
+
 
 ### Stefano Ermon
 Assistant Professor, Department of Computer Science, Stanford University
