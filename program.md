@@ -5,17 +5,18 @@ title: Program
 
 **9-9:15: Opening**
 
-**9:15-10:00 Fairness**
+**9:15-9:30 Fairness**
 
   Nixie Lesmana, Xuan Zhang and Xiaohui Bei. Balancing Efficiency and Fairness in On-Demand Ridesourcing.	
-	
+		
+**9:30-10:00: Poster spotlights (Submission numbers 1-24)**
+
+**10:00-10:30: Poster session/break**
+
+**10:30-11:00 Fairness**
   Boli Fang, Miao Jiang, Jerry Shen, Pei-Yi Cheng and Manju Chivukula. Food Fairness: An Artificial Intelligence Perspective for SNAP Allocation.
   
   Duncan Mcelfresh, Christian Kroer, Sergey Pupyrev, Eric Sodomka and John Dickerson. Matching Algorithms for Blood Donation.
-	
-**10:00-10:30: Poster spotlights (Submission numbers 1-24)**
-
-**10:30-11:00: Poster session** 
 
 **11:00-11:45: Invited talk: Sharad Goel**
 
