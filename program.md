@@ -39,7 +39,7 @@ Sonam Damani, Nitya Raviprakash, Ankush Chatterjee, Meghana Joshi and Puneet Agr
 
 **3:00-3:30: Poster spotlights (Submission numbers 25-43)**
 
-**3:30-4:00: Poster session**
+**3:30-4:00: Poster session/break**
 
 **4:00-4:30pm: Development**
 
