@@ -14,6 +14,7 @@ title: Program
 **10:00-10:30: Poster session/break**
 
 **10:30-11:00 Fairness**
+
   Boli Fang, Miao Jiang, Jerry Shen, Pei-Yi Cheng and Manju Chivukula. Food Fairness: An Artificial Intelligence Perspective for SNAP Allocation.
   
   Duncan Mcelfresh, Christian Kroer, Sergey Pupyrev, Eric Sodomka and John Dickerson. Matching Algorithms for Blood Donation.
