@@ -17,7 +17,7 @@ title: Program
 
   Boli Fang, Miao Jiang, Jerry Shen, Pei-Yi Cheng and Manju Chivukula. Food Fairness: An Artificial Intelligence Perspective for SNAP Allocation.
   
-  Duncan Mcelfresh, Christian Kroer, Sergey Pupyrev, Eric Sodomka and John Dickerson. Matching Algorithms for Blood Donation.
+  Duncan McElfresh, Christian Kroer, Sergey Pupyrev, Eric Sodomka, Neil Dexter, Zack Chauvin, John P Dickerson. Matching Algorithms for Blood Donation.
 
 **11:00-11:45: Invited talk: Sharad Goel**
 
