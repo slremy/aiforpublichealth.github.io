@@ -5,7 +5,7 @@ title: Program
 
 **9-9:15: Opening**
 
-**9:15-9:30 Fairness**
+**9:15-9:30 Contributed talk**
 
   Nixie Lesmana, Xuan Zhang and Xiaohui Bei. Balancing Efficiency and Fairness in On-Demand Ridesourcing.	
 		
@@ -13,7 +13,7 @@ title: Program
 
 **10:00-10:30: Poster session/break**
 
-**10:30-11:00 Fairness**
+**10:30-11:00 Contributed talks**
 
   Boli Fang, Miao Jiang, Jerry Shen, Pei-Yi Cheng and Manju Chivukula. Food Fairness: An Artificial Intelligence Perspective for SNAP Allocation.
   
@@ -21,7 +21,7 @@ title: Program
 
 **11:00-11:45: Invited talk: Sharad Goel**
 
-**11:45-12:30: Applications**
+**11:45-12:30: Contributed talks**
 
 Sunayana Rane. A sparse, data-efficient ECG representation is predictive of myocardial infarction without expert knowledge.
 
@@ -33,23 +33,23 @@ Debarun Bhattacharjya, Karthikeyan Shanmugam, Tian Gao, Nicholas Mattei and Kush
 
 **2-2:45: Invited talk: Lilian Tang**
 
-**2:45-3:00: Development**
+**2:45-3:00: Contributed talk**
 
-Sonam Damani, Nitya Raviprakash, Ankush Chatterjee, Meghana Joshi and Puneet Agrawal. Using AI for Economic Upliftment of Handicraft Industry.
+Yiwen Yuan, Kimberly Lo, Zheyuan Ryan Shi, Leah Lizarondo and Fei Fang. Efficiency and Fairness of Food Rescue Platforms: An Initial Study.
 
 **3:00-3:30: Poster spotlights (Submission numbers 25-43)**
 
 **3:30-4:00: Poster session/break**
 
-**4:00-4:30pm: Development**
+**4:00-4:30pm: Contributed talks**
 
 Dereje Yohannes Ashenafi, Zelalem Mihret, Alemenew Shiferaw. Web based Expert system for the prevention, diagnosis and treatment of Malaria using two Ethiopian local languages (Amharic & Afan Oromo).
 
-Daniel Mutembesa. Incentive allocation function for mobile community sensing with smallholder farmers in a developing nation.	
+Andrew Perrault, Bryan Wilder, Eric Ewing, Aditya Mate, Bistra Dilkina and Milind Tambe. Decision-Focused Learning of Adversary Behavior in Security Games.
 	
 **4:30-5:15: Invited talk: Stefano Ermon**
 
-**5:15-6pm Panel discussion** 
+**5:15-5:30pm Closing** 
 
 <div class="posts">
   {% for post in paginator.posts %}
