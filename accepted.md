@@ -32,7 +32,7 @@ title: Accepted Papers
 * Kinzang Chhogyal, Abhaya Nayak, Aditya Ghose, Mehmet Orgun and Hoa Dam. [On Conforming and Conflicting Values](papers/IJCAI19-AI4SG_paper_37.pdf)
 * Boli Fang, Miao Jiang, Jerry Shen, Pei-Yi Cheng and Manju Chivukula. [Achieving Fairness in Determining Medicaid Eligibility through Fairgroup Construction](papers/IJCAI19-AI4SG_paper_38.pdf)
 * Deborah Duong, Anton Kolonin, Ben Goertzel, Cassio Pennachin, Matt Ikle, Nejc Znidar and Marco Argentieri. [A Reputation System for Market Security and Equity](papers/IJCAI19-AI4SG_paper_40.pdf)
-* Duncan Mcelfresh, Christian Kroer, Sergey Pupyrev, Eric Sodomka and John Dickerson. [Matching Algorithms for Blood Donation](papers/IJCAI19-AI4SG_paper_41.pdf)
+* Duncan Mcelfresh, Christian Kroer, Sergey Pupyrev, Eric Sodomka and John Dickerson. Matching Algorithms for Blood Donation.
 * Jackson Killian, Bryan Wilder, Amit Sharma, Vinod Choudhary, Daksha Shah, Bistra Dilkina and Milind Tambe. [A Framework for Machine Learning in Digital-Based Tuberculosis Treatment](papers/IJCAI19-AI4SG_paper_42.pdf)
 * Boli Fang, Miao Jiang, Jerry Shen, Pei-Yi Cheng and Manju Chivukula. [Food Fairness: An Artificial Intelligence Perspective for SNAP Allocation](papers/IJCAI19-AI4SG_paper_43.pdf)
 
