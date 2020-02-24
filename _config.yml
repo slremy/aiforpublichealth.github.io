@@ -5,9 +5,9 @@ permalink:        pretty
 
 # Setup
 title:            AI for <br> Social Good
-tagline:          'IJCAI 2019 Workshop'
-description:      'IJCAI 2019 Workshop'
-url:              "http://aiforgood2019.github.io"
+tagline:          'IJCAI 2020 Workshop'
+description:      'IJCAI 2020 Workshop'
+url:              "http://aiforgood2020.github.io"
 baseurl:          "/"
 
 paginate:         5
