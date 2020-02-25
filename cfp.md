@@ -12,7 +12,7 @@ This workshop will explore how artificial intelligence can contribute to solving
 * Ethics
 * Fairness and biases
 
-Submissions are due <b> April 31</b>, AoE, via EasyChair (link available soon). We solicit papers in two categories:
+Submissions are due <b> April 24</b>, AoE, via EasyChair (link available soon). We solicit papers in two categories:
 
 * <b>Research papers</b> describing novel contributions in either the development of AI techniques (motivated by societal applications), or their deployment in practice. Both work in progress and recently published work will be considered. Submissions describing recently published work should clearly indicate the earlier venue and provide a link to the published paper. Papers in this category should be at most <b>4 pages</b>, with one additional page containing only references. 
 
