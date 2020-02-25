@@ -5,6 +5,7 @@ title: Organization
 
 ## Organizing Committee
 
+* Arpita Biswas (Indian Institute of Science)
 * Eric Horvitz (Microsoft Research)
 * Andrew Perrault (Harvard University)
 * Sekou Remny (IBM Research Africa)
