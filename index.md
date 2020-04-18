@@ -8,7 +8,9 @@ Artificial intelligence is poised to play an increasingly large role in societie
 
 This workshop will explore how artificial intelligence can contribute to solving social problems. For example, what role can AI play in promoting health, access to opportunity, and sustainable development? How can AI initiatives be deployed in an ethical, inclusive, and accountable manner? To address such questions, this workshop will bring together researchers and practitioners across artificial intelligence and a range of application domains. The objective is to share the current state of research and practice, explore directions for future work, and create opportunities for collaboration. 
 
-The workshop will be held in conjunction with the 28th International Joint Conference on Artificial Intelligence (IJCAI-20), in Yokohama, Japan.
+Such questions are particularly salient in light of the COVID-19 pandemic. AI has an important role to play in providing insight into the course of the epidemic and developing targeted responses; we encourage submissions from both AI researchers as well as epidemiologists, health policy researchers, and other domain experts who are interested in engaging with the AI community.   
+
+The workshop will be held in conjunction with the 28th International Joint Conference on Artificial Intelligence (IJCAI-20). The workshop will be entirely virtual.
 
 
 
