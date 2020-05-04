@@ -12,7 +12,9 @@ This workshop will explore how artificial intelligence can contribute to solving
 * Ethics
 * Fairness and biases
 
-Submissions are due <b> May 7</b>, AoE, via [EasyChair](https://easychair.org/my/conference?conf=ai4sg1#). We solicit papers in two categories:
+Such questions are particularly salient in light of the COVID-19 pandemic. AI has an important role to play in providing insight into the course of the epidemic and developing targeted responses; we encourage submissions from both AI researchers as well as epidemiologists, health policy researchers, and other domain experts who are interested in engaging with the AI community.
+
+Submissions are due <b> May 15</b>, AoE, via [EasyChair](https://easychair.org/my/conference?conf=ai4sg1#). We solicit papers in two categories:
 
 * <b>Research papers</b> describing novel contributions in either the development of AI techniques (motivated by societal applications), or their deployment in practice. Both work in progress and recently published work will be considered. Submissions describing recently published work should clearly indicate the earlier venue and provide a link to the published paper. Papers in this category should be at most <b>4 pages</b>, with one additional page containing only references. 
 
