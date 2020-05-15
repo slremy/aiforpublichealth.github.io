@@ -16,9 +16,9 @@ Such questions are particularly salient in light of the COVID-19 pandemic. AI ha
 
 Submissions are due <b> May 15</b>, AoE, via [EasyChair](https://easychair.org/my/conference?conf=ai4sg1#). We solicit papers in two categories:
 
-* <b>Research papers</b> describing novel contributions in either the development of AI techniques (motivated by societal applications), or their deployment in practice. Both work in progress and recently published work will be considered. Submissions describing recently published work should clearly indicate the earlier venue and provide a link to the published paper. Papers in this category should be at most <b>4 pages</b>, with one additional page containing only references. 
+* <b>Research papers</b> describing novel contributions in either the development of AI techniques (motivated by societal applications), or their deployment in practice. Both work in progress and recently published work will be considered. Submissions describing recently published work should clearly indicate the earlier venue and provide a link to the published paper. Papers in this category should be at most <b>4 pages</b>, with unlimited additional pages containing only references. 
 
-* <b>Position papers</b> describing open problems or neglected perspectives on the field, proposing ideas for bringing computational methods into a new application area, or summarizing the focus areas of a group working on AI for social good. Papers in this category should be at most <b>3 pages</b>, with one additional page containing only references. 
+* <b>Position papers</b> describing open problems or neglected perspectives on the field, proposing ideas for bringing computational methods into a new application area, or summarizing the focus areas of a group working on AI for social good. Papers in this category should be at most <b>3 pages</b>, with unlimited additional pages containing only references. 
 
 All papers should be submitted in IJCAI format. The workshop will not have a formal published proceedings, but we will provide links to accepted papers along with the program. Accepted papers will be selected for oral and poster presentation based on peer review. Submissions are not double-blind; the submitted paper should include author names and affiliations. 
 
