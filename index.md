@@ -4,7 +4,7 @@ title: Home
 ---
 # AI for Social Good at IJCAI 2020
 
-**Update: In light of the postment of the IJCAI conference, two events will be held. First, a workshop on AI for Social Good (independent of IJCAI) in mid-July 2020. Second, a workshop at the IJCAI conference, whenever IJCAI is held. The submission deadline for the summer workshop is extended to May 29. Additional details will be available soon.**
+**Update: In light of the postponement of the IJCAI conference, two events will be held. First, a workshop on AI for Social Good (independent of IJCAI) in mid-July 2020. Second, a workshop at the IJCAI conference, whenever IJCAI is held. The submission deadline for the summer workshop is extended to May 29. Additional details will be available soon.**
 
 Artificial intelligence is poised to play an increasingly large role in societies across the world. Accordingly, there is a growing interest in ensuring that AI is used in a responsible and beneficial manner. A range of perspectives and contributions are needed, spanning the full spectrum from fundamental research to sustained deployments.
 
