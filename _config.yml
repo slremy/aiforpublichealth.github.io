@@ -4,7 +4,7 @@ markdown : kramdown
 permalink:        pretty
 
 # Setup
-title:            'AI for Social Good'
+title:            'AI for&#10;Social Good'
 tagline:          'IJCAI 2020 Workshop'
 description:      'IJCAI 2020 Workshop'
 url:              "http://aiforgood2020.github.io"
