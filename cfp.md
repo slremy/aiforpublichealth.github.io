@@ -20,5 +20,5 @@ Submissions are due <b> May 29</b>, AoE, via [EasyChair](https://easychair.org/m
 
 * <b>Position papers</b> describing open problems or neglected perspectives on the field, proposing ideas for bringing computational methods into a new application area, or summarizing the focus areas of a group working on AI for social good. Papers in this category should be at most <b>3 pages</b>, with unlimited additional pages containing only references. 
 
-All papers should be submitted in IJCAI format. The workshop will not have a formal published proceedings, but we will provide links to accepted papers along with the program. Accepted papers will be selected for oral and poster presentation based on peer review. Submissions are not double-blind; the submitted paper should include author names and affiliations. 
+All papers should be submitted in [IJCAI format](https://www.ijcai.org/authors_kit). The workshop will not have a formal published proceedings, but we will provide links to accepted papers along with the program. Accepted papers will be selected for oral and poster presentation based on peer review. Submissions are not double-blind; the submitted paper should include author names and affiliations. 
 
