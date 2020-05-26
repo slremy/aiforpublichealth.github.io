@@ -10,9 +10,10 @@ title: Organization
 * Andrew Perrault (Harvard University)
 * Sekou Remny (IBM Research Africa)
 * Sofia Segkouli (Information Technologies Institute, Thessaloniki, Greece)
-* Andreas Theodorou (Umeå University)
-* Bryan Wilder (Harvard University)
+* Andreas Theodorou* (Umeå University)
+* Bryan Wilder* (Harvard University)
 
+\*primary contacts: bryan.wilder0@gmail.com, andreas.theodorou@umu.se 
 
 
 
