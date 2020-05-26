@@ -3,7 +3,7 @@ layout: page
 title: Call for Papers
 ---
 
-This workshop will explore how artificial intelligence can contribute to solving social problems. For example, what role can AI play in promoting health, access to opportunity, and sustainable development? How can AI initiatives be deployed in an ethical, inclusive, and accountable manner? To address such questions, this workshop will bring together researchers and practitioners across artificial intelligence and a range of application domains. The objective is to share the current state of research and practice, explore directions for future work, and create opportunities for collaboration. The workshop will feature a mix of invited talks, contributed talks, and posters. Submissions spanning the full range of theoretical and applied work are encouraged. Topics of interest include, but are not limited to:
+The Harvard CRCS Workshop on AI for Social Good will explore how artificial intelligence can contribute to solving social problems. For example, what role can AI play in promoting health, access to opportunity, and sustainable development? How can AI initiatives be deployed in an ethical, inclusive, and accountable manner? To address such questions, this workshop will bring together researchers and practitioners across artificial intelligence and a range of application domains. The objective is to share the current state of research and practice, explore directions for future work, and create opportunities for collaboration. The workshop will feature a mix of invited talks, contributed talks, and posters. Submissions spanning the full range of theoretical and applied work are encouraged. Topics of interest include, but are not limited to:
 
 * Democracy
 * Developing world
@@ -14,7 +14,7 @@ This workshop will explore how artificial intelligence can contribute to solving
 
 Such questions are particularly salient in light of the COVID-19 pandemic. AI has an important role to play in providing insight into the course of the epidemic and developing targeted responses; we encourage submissions from both AI researchers as well as epidemiologists, health policy researchers, and other domain experts who are interested in engaging with the AI community.
 
-Submissions are due <b> May 29</b>, AoE, via [EasyChair](https://easychair.org/my/conference?conf=ai4sg1#). We solicit papers in two categories:
+Submissions are due <b> June 5</b>, AoE, via [EasyChair](https://easychair.org/my/conference?conf=ai4sg1#). We solicit papers in two categories:
 
 * <b>Research papers</b> describing novel contributions in either the development of AI techniques (motivated by societal applications), or their deployment in practice. Both work in progress and recently published work will be considered. Submissions describing recently published work should clearly indicate the earlier venue and provide a link to the published paper. Papers in this category should be at most <b>4 pages</b>, with unlimited additional pages containing only references. 
 
