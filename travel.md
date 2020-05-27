@@ -2,7 +2,7 @@
 layout: page
 title: Travel Awards
 ---
-TBD
+This iteration of the workshop is entirely virtual and will not have a travel awards program.
 
 <div class="posts">
   {% for post in paginator.posts %}
