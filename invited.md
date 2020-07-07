@@ -3,7 +3,11 @@ layout: page
 title: Invited Speakers
 ---
 
-
+* Joanna Bryson (Hertie School of Governance)
+* Oisin Mac Aodha (School of Informatics, University of Edinburgh)
+* Vukosi Marivate (Department of Computer Science, University of Pretoria)
+* Ziad Obermeyer (UC Berkeley School of Public Health)
+* Danielle Wood (MIT Media Lab)
 
 <div class="posts">
   {% for post in paginator.posts %}
