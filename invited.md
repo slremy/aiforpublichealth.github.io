@@ -3,11 +3,11 @@ layout: page
 title: Invited Speakers
 ---
 
-# Joanna Bryson (Hertie School of Governance)
+## Joanna Bryson (Hertie School of Governance)
 
 Title/abstract TBD
 
-# Oisin Mac Aodha (School of Informatics, University of Edinburgh)
+## Oisin Mac Aodha (School of Informatics, University of Edinburgh)
 
 Human-in-the-Loop Computer Vision for Biodiversity Monitoring
 
@@ -17,7 +17,7 @@ In order to manage the impact of anthropogenic change there is a critical need f
 Bio:
 Oisin Mac Aodha is an Assistant Professor in Machine Learning at the University of Edinburgh. Previous to that, he was a postdoc with Prof. Pietro Perona in the Computational Vision Lab at the Caltech. He obtained his PhD from University College London with Prof. Gabriel Brostow. His current research interests are broadly in the areas of machine learning, computer vision, and human-in-the-loop methods such as active learning and machine teaching. More information can be found on his website (www.oisin.info) and twitter (@oisinmacaodha).
 
-# Vukosi Marivate (Department of Computer Science, University of Pretoria)
+## Vukosi Marivate (Department of Computer Science, University of Pretoria)
 
 Title: Data Science at the frontier: What does it really mean to do Data Science for Society?
 
@@ -27,7 +27,7 @@ We talk about Data Science or Artificial Intelligence for Good. What does it rea
 Bio
 Dr Vukosi Marivate is the ABSA UP Chair of Data Science at the University of Pretoria. Vukosi works on developing Machine Learning/Artificial Intelligence methods to extract insights from data. A large part of his work over the last few years has been in the intersection of Machine Learning and Natural Language Processing (due to the abundance of text data and need to extract insights). As part of his vision for the ABSA Data Science chair, Vukosi is interested in Data Science for Social Impact, using local challenges as a springboard for research. In this area Vukosi has worked on projects in science, energy, public safety and utilities. Vukosi is an organiser of the Deep Learning Indaba, the largest Machine Learning/Artificial Intelligence workshop on the African continent, aiming to strengthen African Machine Learning. He is passionate about developing young talent, supervising MSc and PhD students and mentoring budding Data Scientists.
 
-# Ziad Obermeyer (UC Berkeley School of Public Health)
+## Ziad Obermeyer (UC Berkeley School of Public Health)
 
 Title: Dissecting racial bias in health algorithms
 
@@ -35,7 +35,7 @@ Abstract: The choice of convenient, seemingly effective proxies for ground truth
 
 Bio: Ziad Obermeyer is an Associate Professor at UC Berkeley, where he does research at the intersection of machine learning, medicine, and health policy. He was named an Emerging Leader by the National Academy of Medicine, and has received numerous awards including the Early Independence Award -- the National Institutes of Health’s most prestigious award for exceptional junior scientists -- and the Young Investigator Award from the Society for Academic Emergency Medicine. Previously, he was an Assistant Professor at Harvard Medical School. He continues to practice emergency medicine in underserved communities.
 
-# Danielle Wood (MIT Media Lab)
+## Danielle Wood (MIT Media Lab)
 
 Title: Sustainability in Space and on Earth: Research Initiatives of the Space Enabled Research Group
 
