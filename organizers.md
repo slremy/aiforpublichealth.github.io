@@ -8,7 +8,7 @@ title: Organization
 * Arpita Biswas (Indian Institute of Science)
 * Eric Horvitz (Microsoft Research)
 * Andrew Perrault (Harvard University)
-* Sekou Remny (IBM Research Africa)
+* Sekou Remy (IBM Research Africa)
 * Sofia Segkouli (Information Technologies Institute, Thessaloniki, Greece)
 * Andreas Theodorou* (Umeå University)
 * Bryan Wilder* (Harvard University)
