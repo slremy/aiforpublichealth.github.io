@@ -86,11 +86,95 @@ Xingyu Chen and Zijie Liu. The Fairness of Leximin in Allocation of Indivisible 
 
 Ashiqur Khudabukhsh, Shriphani Palakodety and Jaime Carbonell. On NLP Methods Robust to Noisy Indian Social Media Data.
 
+Spotlight presentations (listed below)
+
 **3:00-4:00: Invited talk: Ziad Obermeyer**
 
 **4:00-4:15 Spotlight talks (see below) and closing remarks**
 
 **4:15-5:15 Poster session**
+
+### Spotlight presentation schedule: Monday, July 20
+
+**9:15 session**
+
+Yassir Alharbi, Daniel Arribas-Bel and Frans Coenen. Sustainable Development Goal Relational Modelling: Introducing the SDG-RMF Methodology.
+
+Ilkin Bayramli, Elizabeth Bondi and Milind Tambe. In the Shadow of Disaster: Finding Shadows to Improve Damage Detection.
+
+Satyam Mohla, Sidharth Mohla and Anupam Guha. Green is the new Black: Multimodal Noisy Segmentation based fragmented burn scars identification in Amazon Rainforest.
+
+Sai Venkata Ratna Rithwik Kukunuri, Nipun Batra, Ayush Pandey, Raktim Malakar, Rajat Kumar, Odysseas Krystalakos, Mingjun Zhong, Paulo Meira and Oliver Parson. NILMTK-Contrib: Towards reproducible state-of-the-art energy disaggregation.
+
+**11:00 session**
+
+Diana Diaz, Celia Cintas, William Ogallo and Aisha Walcott-Bryant. Towards Automatic Generation of Context-Based Abstractive Discharge Summaries for Supporting Transition of Care.
+
+Alexandra Luccioni, Joseph Bullock, Katherine Hoffmann Pham, Cynthia Sin Nga Lam and Miguel Luengo-Oroz. Considerations, Good Practices, Risks and Pitfalls in Developing AI Solutions Against COVID-19.
+
+Raushan Raj, Anand Seetharam and Arti Ramesh. Ensemble Regression Models for Short-term Prediction of Confirmed COVID-19 Cases.
+
+Swaroop Gowdra, Anand Seetharam and Arti Ramesh. Understanding the Socio-Economic Disruption in the United States during COVID-19's Early Days.
+
+Athina Georgara, Carles Sierra and Juan-Antonio Rodríguez-Aguilar. Edu2Com: an anytime algorithm to form student teams in companies.
+
+Zhigang Zhu, Jie Gong, Cecilia Feeley, Huy Vo, Hao Tang, Arber Ruci, Bill Seiple and Zheng Yi Wu. SAT-Hub: Smart and Accessible Transportation Hub for Assistive Navigation and Facility Management.
+
+Anya Zhang and Andrew Perrault. Influence Maximization and Equilibrium Strategies in Election Network Games.
+
+Subhro Das, Sebastian Steffen, Prabhat Reddy, Erik Brynjolfsson and Martin Fleming. Forecasting Task-Shares and Characterizing Occupational Change across Industry Sectors.
+
+Melanie Laffin. Ethically Sourced Modeling: A Framework for Mitigating Bias in AI Projects within the US Government.
+
+Caroline Trier and Lu Sevier. Designing a Partnership Framework in AI for Social Good.
+
+### Spotlight presentation schedule: Tuesday, July 21
+
+**10:00 session**
+
+Nawal Benabbou, Mithun Chakraborty, Ayumi Igarashi and Yair Zick. Finding Fair and Efficient Allocations When Valuations Don’t Add Up.
+
+Robin Burke, Amy Voida, Nicholas Mattei and Nasim Sonboli. Algorithmic Fairness, Institutional Logics, and Social Choice.
+
+Sean R. Sinclair, Gauri Jain, Siddhartha Banerjee and Christina Lee Yu. Sequential Fair Allocation of Limited Resources under Stochastic Demands.
+
+Yan Zhou and Murat Kantarcioglu. On Transparency of Machine Learning Models: A Position Paper.
+
+Deepak P. Whither Fair Clustering?
+
+**12:45 session**
+
+Guillaume Derval, Vincent François-Lavet and Pierre Schaus. Nowcasting COVID-19 hospitalizations using Google Trends and LSTM.
+
+Bryan Wilder, Marie Charpingon, Jackson Killian, Han-Ching Ou, Aditya Mate, Shahin Jabbari, Andrew Perrault, Angel Desai, Milind Tambe and Maimuna Majumder. Inferring between-population differences in COVID-19 dynamics.
+
+Swati Padhee, Tanay Kumar Saha, Joel Tetreault and Alejandro Jaimes. Clustering of Social Media Messages for Humanitarian Aid Response during Crisis.
+
+Jawad Haqbeen, Takayuki Ito, Sofia Sahab, Rafik Hadfi, Shun Okuhara, Nasim Saba, Murtaza Hofiani and Umar Baregzai. A Contribution to COVID-19 Prevention through Crowd Collaboration using Con-versational AI & Social Platforms.
+
+Ezinne Nwankwo, Chinasa Okolo and Cynthia Habonimana. Topic Modeling Approaches for Understanding COVID-19 MisinformationSpread in Sub-Saharan Africa.
+
+**2:15 session**
+
+Harshit Mishra. Reducing Word Embedding Bias Using Learned Latent Structure.
+
+Lance Eliot. Position Paper: The Neglected Dualism Of Artificial Moral Agency And Artificial Legal Reasoning In AI For Social Good.
+
+Tom Ron, Omer Ben-Porat and Uri Shalit. Corporate Social Responsibility via Multi-Armed Bandits.
+
+Alaisha Sharma, Jackson Killian and Andrew Perrault. Optimization of the Low-Carbon Energy Transition Under Static and Adaptive Carbon Taxes via Markov Decision Processes.
+
+Lily Xu, Andrew Perrault, Andrew Plumptre, Margaret Driciru, Fred Wanyama, Aggrey Rwetsiba and Milind Tambe. Game Theory on the Ground: The Effect of Increased Patrols on Deterring Poachers.
+
+**4:00 session**
+
+Jennifer Hobbs, Robert Paull, Bernard Markowicz and Greg Rose. Flowering density estimation from aerial imagery for automated pineapple flower counting.
+
+Bob Bell and Rajesh Veeeraraghavan. Locating Informal Urban Settlements.
+
+Sagar Vaze, Conrad James Foley, Mohamed Seddiq, Alexey Unagaev and Natalia Efremova. Optimal Use of Multi-spectral Satellite Data with Convolutional Neural Networks.
+
+Lynn Miller, Christoph Rüdiger and Geoffrey Webb. Using AI and Satellite Earth Observation to Monitor UN Sustainable Development Indicators.
 
 <div class="posts">
   {% for post in paginator.posts %}
