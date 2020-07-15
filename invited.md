@@ -5,7 +5,7 @@ title: Invited Speakers
 
 ### Joanna Bryson (Hertie School of Governance)
 
-Title/abstract TBD
+#### What Is Good? Social Impacts and Digital Governance
 
 ### Oisin Mac Aodha (School of Informatics, University of Edinburgh)
 
