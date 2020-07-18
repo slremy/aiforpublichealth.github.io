@@ -2,6 +2,8 @@
 layout: page
 title: Program
 ---
+All times are in Eastern Daylight Time (UTC−04:00).
+
 ### Monday, July 20
 
 **9:00-9:15: Opening remarks**
