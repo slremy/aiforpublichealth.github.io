@@ -26,25 +26,25 @@ Spotlight presentations (listed below)
 
 **12:00-1:30: Poster session and break**
 
-**1:30-2:00: Contributed talks**
+**1:30-2:45: Contributed talks**
 
 Anusua Trivedi, Kate Keator, Avirishu Verma, Rahul Dodhia, Ria Sankar and Juan Lavista Ferres. ECO: Using AI for Everyday Armed Conflict Analysis.
 
 Tine Kolenik and Matjaž Gams. Progressing Social Good by Reducing Mental Health Care Inequality with Persuasive Technology.
-
-**2:00-3:00: Invited talk: Oisin Mac Aodha**
-
-**3:00-3:30: Break**
-
-**3:30-4:45: Contributed talks**
-
-Lily Xu, Elizabeth Bondi, Fei Fang, Andrew Perrault, Kai Wang and Milind Tambe. Dual-Mandate Patrols: Bandit-Based Learning in Green Security Domains.
 
 Chao Yan, Haifeng Xu, Yevgeniy Vorobeychik, Bo Li, Daniel Fabbri and Bradley Malin. To Warn or Not to Warn: Online Signaling in Audit Games.
 
 Brian Brubach, Aravind Srinivasan and Shawn Zhao. The Relationship between Gerrymandering Classification and Voter Incentives.
 
 Taoan Huang and Bistra Dilkina. Enhancing Seismic Resilience of Water Pipe Networks.
+
+**2:45-3:00: Break**
+
+**3:00-4:00: Invited talk: Ziad Obermeyer**
+
+**4:00-4:30: Contributed talks**
+
+Lily Xu, Elizabeth Bondi, Fei Fang, Andrew Perrault, Kai Wang and Milind Tambe. Dual-Mandate Patrols: Bandit-Based Learning in Green Security Domains.
 
 Wanyi Li, Nicole Immorlica and Brendan Lucier. Contract Design for Afforestation Programs.
 
@@ -78,19 +78,17 @@ Caroline Johnston, Simon Blessenohl and Phebe Vayanos. Preference Elicitation an
 
 Spotlight presentations (listed below)
 
-**2:00-2:15: Break**
+**2:00-3:00: Invited talk: Oisin Mac Aodha**
 
-**2:15-3:00 Contributed talks**
+**3:00-3:15: Break**
+
+**3:15-4:15 Contributed talks**
 
 Xingyu Chen and Zijie Liu. The Fairness of Leximin in Allocation of Indivisible Chores.
 
 Ashiqur Khudabukhsh, Shriphani Palakodety and Jaime Carbonell. On NLP Methods Robust to Noisy Indian Social Media Data.
 
 Spotlight presentations (listed below)
-
-**3:00-4:00: Invited talk: Ziad Obermeyer**
-
-**4:00-4:15 Spotlight talks (see below) and closing remarks**
 
 **4:15-5:15 Poster session**
 
@@ -154,7 +152,7 @@ Jawad Haqbeen, Takayuki Ito, Sofia Sahab, Rafik Hadfi, Shun Okuhara, Nasim Saba,
 
 Ezinne Nwankwo, Chinasa Okolo and Cynthia Habonimana. Topic Modeling Approaches for Understanding COVID-19 MisinformationSpread in Sub-Saharan Africa.
 
-**2:15 session**
+**3:15 session**
 
 Harshit Mishra. Reducing Word Embedding Bias Using Learned Latent Structure.
 
@@ -165,8 +163,6 @@ Tom Ron, Omer Ben-Porat and Uri Shalit. Corporate Social Responsibility via Mult
 Alaisha Sharma, Jackson Killian and Andrew Perrault. Optimization of the Low-Carbon Energy Transition Under Static and Adaptive Carbon Taxes via Markov Decision Processes.
 
 Lily Xu, Andrew Perrault, Andrew Plumptre, Margaret Driciru, Fred Wanyama, Aggrey Rwetsiba and Milind Tambe. Game Theory on the Ground: The Effect of Increased Patrols on Deterring Poachers.
-
-**4:00 session**
 
 Jennifer Hobbs, Robert Paull, Bernard Markowicz and Greg Rose. Flowering density estimation from aerial imagery for automated pineapple flower counting.
 
