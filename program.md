@@ -16,7 +16,7 @@ Harold Kiossou, Yannik Schenk, Frédéric Docquier, Ratheil Houndji, Siegfried N
 
 Spotlight presentations (listed below)
 
-**10:00-11:00: Invited talk: Danielle Wood**
+**10:00-11:00: Invited talk: Danielle Wood and Neil Gaikwad**
 
 **11:00-12:00: Contributed talks**
 
