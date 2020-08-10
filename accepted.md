@@ -55,7 +55,7 @@ Lance Eliot. [Position Paper: The Neglected Dualism Of Artificial Moral Agency A
 
 Christian Kammler, Annet Onnes, Loïs Vanhée, Harko Verhagen, Bart de Bruin, Paul Davidsson, Frank Dignum, Virginia Dignum, Amineh Ghorbani, Mijke van den Hurk, Maarten Jensen, Kurt Kreulen, Fabian Lorig, Luis Gustavo Ludescher, Alexander Melchior, René Mellema, Cezara Pastrav and Tomas Sjöström. [Social Simulations for Intelligently Beating COVID-19](papers/AI4SG_paper_39.pdf).
 
-Lily Xu, Elizabeth Bondi, Fei Fang, Andrew Perrault, Kai Wang and Milind Tambe. [Dual-Mandate Patrols: Bandit-Based Learning in Green Security Domains](papers/AI4SG_paper_40.pdf).
+Lily Xu, Elizabeth Bondi, Fei Fang, Andrew Perrault, Kai Wang and Milind Tambe. Dual-Mandate Patrols: Bandit-Based Learning in Green Security Domains.
 
 Raushan Raj, Anand Seetharam and Arti Ramesh. [Ensemble Regression Models for Short-term Prediction of Confirmed COVID-19 Cases](papers/AI4SG_paper_43.pdf).
 
