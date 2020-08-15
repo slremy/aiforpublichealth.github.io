@@ -4,7 +4,7 @@ title: Home
 ---
 # AI for Social Good
 
-**The webpage for this workshop has moved. The IJCAI 2020 (January 2021) workshop website is <a href="https://crcs.seas.harvard.edu/event/ai-social-good-workshop-0?admin_panel=1&month=2020-08&type=month">here.</a>**
+**The webpage for this workshop has moved. The IJCAI 2020 (January 2021) workshop website is <a href="https://crcs.seas.harvard.edu/event/ai-social-good-workshop-0">here.</a>**
 
 **The summer 2020 workshop website is <a href="https://crcs.seas.harvard.edu/event/ai-social-good-workshop?delta=0">here.</a>**
 
