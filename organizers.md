@@ -5,15 +5,20 @@ title: Organization
 
 ## Organizing Committee
 
-* Arpita Biswas (Indian Institute of Science)
-* Eric Horvitz (Microsoft Research)
-* Andrew Perrault (Harvard University)
-* Sekou Remy (IBM Research Africa)
-* Sofia Segkouli (Information Technologies Institute, Thessaloniki, Greece)
-* Andreas Theodorou* (Umeå University)
+* Ioana Bica (University of Oxford)
+* Marie Charpignon (MIT)
+* Emma Pierson (Microsoft Research)
 * Bryan Wilder* (Harvard University)
 
-\*primary contacts: bryan.wilder0@gmail.com, andreas.theodorou@umu.se 
+\*primary contact: bryan.wilder0@gmail.com
+
+## Advisory Committee
+
+* Jure Leskovec (Stanford University)
+* Maimuna Majumder (Boston Children's Hospital and Harvard Medical School)
+* Michael Mina (Harvard School of Public Health)
+* Balaraman Ravindran (IIT Madras)
+* James Zou (Stanford University)
 
 
 
