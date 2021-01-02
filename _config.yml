@@ -4,10 +4,10 @@ markdown : kramdown
 permalink:        pretty
 
 # Setup
-title:            'AI for&#10;Social Good'
-tagline:          'Harvard CRCS Workshop'
-description:      'Harvard CRCS Workshop'
-url:              "http://aiforgood2020.github.io"
+title:            'AI for&#10;Public Health'
+tagline:          'ICLR Workshop'
+description:      'ICLR Workshop'
+url:              "http://aiforpublichealth.github.io"
 baseurl:          "/"
 
 paginate:         5
