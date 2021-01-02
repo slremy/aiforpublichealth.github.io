@@ -2,11 +2,11 @@
 layout: default
 title: Home
 ---
-# AI for Social Good
+# AI for Public Health
 
-**The webpage for this workshop has moved. The IJCAI 2020 (January 2021) workshop website is <a href="https://crcs.seas.harvard.edu/event/ai-social-good-workshop-0">here.</a>**
+The COVID-19 pandemic has cast a spotlight on the importance of public health. Even beyond this current emergency, public health is an essential component of population-level wellbeing. Topics such as infectious disease surveillance and control, preventative health, behavioral and mental health, maternal and child wellbeing, and more all play a crucial role in society. Moreover, a range of applications in public health benefit from careful use of data to uncover outbreak dynamics, learn patterns of behavior, optimize the design of interventions, and more. The science of machine learning in a public health context is still rapidly developing, and our aim is to build a community encompassing researchers based in both machine learning and public health to address these shared questions.
 
-**The summer 2020 workshop website is <a href="https://crcs.seas.harvard.edu/event/ai-social-good-workshop?delta=0">here.</a>**
+The (fully virtual) workshop will be head at [ICLR 2021](https://iclr.cc/Conferences/2021/) on May 8 2021.
 
 <div class="posts">
   {% for post in paginator.posts %}
