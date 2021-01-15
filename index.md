@@ -8,6 +8,36 @@ The COVID-19 pandemic has cast a spotlight on the importance of public health. E
 
 The (fully virtual) workshop will be head at [ICLR 2021](https://iclr.cc/Conferences/2021/) on May 8 2021.
 
+# Speakers 
+<div class="container" style="margin-top: 20px;margin-bottom: 0px;">
+  <div class="row">
+  {% for p in site.data.speakers %}
+  {% if forloop.index<=3 %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+  </div>
+  <div class="row">
+  {% for p in site.data.speakers %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% if forloop.index>3 and forloop.index<=6%}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+  </div>
+  <div class="row">
+  {% for p in site.data.speakers %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% if forloop.index>6%}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+  </div>
+<a href="invited">More Info</a>
+</div>
+
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
