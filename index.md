@@ -43,9 +43,11 @@ The COVID-19 pandemic has cast a spotlight on the importance of public health. E
   {% endif %}
   {% endfor %}
  </div>
-  
+</div>
+
+
+<div> 
 &nbsp;
- 
 <a href="speakers">More Info</a>
 </div>
 
