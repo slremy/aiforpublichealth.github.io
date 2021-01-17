@@ -26,16 +26,16 @@ suvrit:
     img: "suvrit.jpg"
     bio: "Suvrit Sra is the Esther and Harold E. Edgerton (1927) Career Development Associate Professor of Electrical Engineering and Computer Science at MIT and a core faculty member in the MIT Institute for Data, Systems, and Society. He is also Chief AI Officer and co-founder at macro-eyes, a startup focused on global health. macro-eyes developed a vaccine forecasting tool that reduced vaccine wastage by 96 percent across three regions of Tanzania  and a patient scheduling platform which has analyzed over 6 million hospital appointments and reduced wait times by more than 75 percent at one of the largest heart hospitals in the U.S. Suvrit’s work has won several awards at machine learning conferences, as well as the 2011 SIAM Outstanding Paper award, faculty research awards from Criteo and Amazon, and an NSF CAREER award. He founded the OPT (Optimization for Machine Learning) series of workshops at the NIPS conference, which he has co-chaired since 2008 and was an area chair for NeuRIPS 2019."
 
-mihaela:
-  name: "Mihaela van der Schaar"
-  url: "https://www.vanderschaar-lab.com/"
-  affiliation: "University of Cambridge, The Alan Turing Institute, UCLA"
-  img: "mihaela.jpg"
-  bio: "Mihaela van der Schaar is John Humphrey Plummer Professor of Machine Learning, Artificial Intelligence and Medicine at the University of Cambridge, a Turing Faculty Fellow at The Alan Turing Institute in London, and a Chancellor’s Professor at UCLA. Mihaela was elected IEEE Fellow in 2009. She has received numerous awards, including the Oon Prize on Preventative Medicine fromthe University of Cambridge (2018), an NSF Career Award (2004), 3 IBM Faculty Awards, the IBM Exploratory Stream Analytics Innovation Award, the Philips Make a Difference Award and severalbest paper awards, including the IEEE Darlington Award. Mihaela’s work has also led to 35 USA patents (many widely cited and adopted in standards) and 45+ contributions to international standards for which she received 3 International ISO (International Organization for Standardization) Awards."
-
 ziad:
   name: "Ziad Obermeyer"
   url: "http://ziadobermeyer.com/"
   affiliation: "UC Berkeley"
   img: "ziad.jpg"
   bio: "Ziad Obermeyer is the Blue Cross of California Distinguished Professor of Health Policy and Management in the School of Public Health at UC Berkeley, where he does research at the intersection of machine learning, medicine, and health policy. He was named an Emerging Leader by the National Academy of Medicine, and has received numerous awards including the Early Independence Award -- the National Institutes of Health’s most prestigious award for exceptional junior scientists -- and the Young Investigator Award from the Society for Academic Emergency Medicine. Previously, he was an Assistant Professor at Harvard Medical School. He continues to practice emergency medicine in underserved communities."
+
+mihaela:
+  name: "Mihaela van der Schaar"
+  url: "https://www.vanderschaar-lab.com/"
+  affiliation: "University of Cambridge, The Alan Turing Institute, UCLA"
+  img: "mihaela.jpg"
+  bio: "Mihaela van der Schaar is John Humphrey Plummer Professor of Machine Learning, Artificial Intelligence and Medicine at the University of Cambridge, a Turing Faculty Fellow at The Alan Turing Institute in London, and a Chancellor’s Professor at UCLA. Mihaela was elected IEEE Fellow in 2009. She has received numerous awards, including the Oon Prize on Preventative Medicine fromthe University of Cambridge (2018), an NSF Career Award (2004), 3 IBM Faculty Awards, the IBM Exploratory Stream Analytics Innovation Award, the Philips Make a Difference Award and severalbest paper awards, including the IEEE Darlington Award. Mihaela’s work has also led to 35 USA patents (many widely cited and adopted in standards) and 45+ contributions to international standards for which she received 3 International ISO (International Organization for Standardization) Awards."
