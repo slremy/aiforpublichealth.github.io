@@ -1,0 +1,16 @@
+# Dependencies
+markdown : kramdown
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'AI for&#10;Public Health'
+tagline:          'ICLR Workshop'
+description:      'ICLR Workshop'
+url:              "http://aiforpublichealth.github.io"
+baseurl:          "/"
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
