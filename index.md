@@ -29,7 +29,7 @@ The COVID-19 pandemic has cast a spotlight on the importance of public health. E
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>5 and forloop.index<=10%}
+  {% if forloop.index>4 and forloop.index<=10%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}

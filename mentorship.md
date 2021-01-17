@@ -10,9 +10,9 @@ To build a stronger community for AI for Public Health and to encourage collabor
 
 Deadline for applying to be a mentor/mentee: January 24th. The mentees will be paired-up with a mentor on January 25th and 26th.
 
-Application form for mentees: https://forms.gle/hBw8wfwNMJCXp1Yn8
+Application form for mentees: <a href=https://forms.gle/hBw8wfwNMJCXp1Yn8> https://forms.gle/hBw8wfwNMJCXp1Yn8 </a>
 
-Application form for mentors: https://forms.gle/zH3AuATT5R36eSLn9
+Application form for mentors: <a href=https://forms.gle/hBw8wfwNMJCXp1Yn8> https://forms.gle/zH3AuATT5R36eSLn9 </a> 
 
 ## Expectations 
 
@@ -23,7 +23,7 @@ The mentors will be expected to allocate at least 5-6 hours for each mentee and 
 The Submission Mentorship Program will begin ~five weeks before the workshop submission deadline to allow for in-depth discussion and multiple rounds of feedback between the mentors and mentees. We recommend that the mentee initiates contact with the mentors and arrange for an initial meeting between January 26th - February 1st to discuss their submission and set any expectations for the mentorship period. Further important dates and the proposed timeline can be found below. 
 
 
-##Important dates and proposed timeline:
+## Important dates and proposed timeline:
 
 * January 24th: Application deadline for mentees/mentors.
 * January 25th-26th: Details about mentee-mentor pair-ups are sent out. 
