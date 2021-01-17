@@ -42,7 +42,10 @@ The COVID-19 pandemic has cast a spotlight on the importance of public health. E
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
-  </div>
+ </div>
+  
+&nbsp;
+ 
 <a href="speakers">More Info</a>
 </div>
 
@@ -60,29 +63,21 @@ The COVID-19 pandemic has cast a spotlight on the importance of public health. E
     {% endfor %}
   </div>
 </div>
-<hr>
 
 \*primary contact: bryan.wilder0@gmail.com
+<hr>
 
 # Advisory Committee
-
-* Jure Leskovec (Stanford University)
-* Maimuna Majumder (Boston Children's Hospital and Harvard Medical School)
-* Michael Mina (Harvard School of Public Health)
-* Balaraman Ravindran (IIT Madras)
-* James Zou (Stanford University)
 
 <!-- prettier-ignore -->
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
-    {% for p in site.data.organizers %}
+    {% for p in site.data.advisory %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endfor %}
   </div>
 </div>
-<hr>
-
 
 
 

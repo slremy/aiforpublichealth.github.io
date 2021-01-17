@@ -1,0 +1,26 @@
+jure:
+  name: "Jure Leskovec"
+  url: "https://cs.stanford.edu/people/jure/"
+  affiliation: "Stanford University"
+  img: "jure.jpeg"
+maimuna:
+  name: "Maimuna Majumder"
+  url: "https://www.childrenshospital.org/research/researchers/m/maimuna-majumder"
+  affiliation: "Boston Children’s Hospital and Harvard Medical School"
+  img: "maimuna.jpg"
+michael:
+  name: "Michael Mina"
+  url: "https://www.hsph.harvard.edu/hii/people/michael-mina-md-phd/"
+  affiliation: "Harvard School of Public Health"
+  img: "michael.jpeg"
+balaraman:
+  name: "Balaraman Ravindran"
+  url: "https://www.cse.iitm.ac.in/~ravi/"
+  affiliation: "IIT Madras"
+  img: "balaraman.jpg"
+james:
+  name: "James Zou"
+  url: "https://sites.google.com/site/jamesyzou/"
+  affiliation: "Stanford University"
+  img: "james.jpg"
+
