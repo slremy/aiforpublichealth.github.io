@@ -10,9 +10,9 @@ To build a stronger community for AI for Public Health and to encourage collabor
 
 Deadline for applying to be a mentor/mentee: January 24th. The mentees will be paired-up with a mentor on January 25th and 26th.
 
-Application form for mentees: <a href=https://forms.gle/hBw8wfwNMJCXp1Yn8> https://forms.gle/hBw8wfwNMJCXp1Yn8 </a>
+Application form for mentees: [https://forms.gle/hBw8wfwNMJCXp1Yn8](https://forms.gle/hBw8wfwNMJCXp1Yn8)
 
-Application form for mentors: <a href=https://forms.gle/hBw8wfwNMJCXp1Yn8> https://forms.gle/zH3AuATT5R36eSLn9 </a> 
+Application form for mentors: [https://forms.gle/zH3AuATT5R36eSLn9](https://forms.gle/zH3AuATT5R36eSLn9)
 
 ## Expectations 
 
