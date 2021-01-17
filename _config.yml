@@ -26,7 +26,7 @@ navbar-links:
   Call: "cfp"
   # Dates: "#dates"
   Speakers: "speakers"
-  # Mentorship: "mentorship"
+  Mentorship: "mentorship"
   Papers: "papers"
   Schedule: "schedule"
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -69,7 +69,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: KR2ML
+  name: AI for Public Health
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
