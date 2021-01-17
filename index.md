@@ -60,15 +60,13 @@ we are hosting a Submission Mentorship Program. Through this program, our goal i
 feedback and guidance on their work. We believe that such a mentorship scheme will also increase the impact and 
 quality of the workshop submissions and foster future collaborations between the mentors and mentees.
 
-
 | ----------------------------------------------- |:--------------------:|
 | **Deadline for applying to be a mentor/mentee** | January 24th, 2021   |
 
-<div>
+<div class="container" style="margin-top: 20px;margin-bottom: 10px;">
 <a href="mentorship">More Info</a>
 </div>
 
-</hr>
 
 <hr>
 
