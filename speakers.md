@@ -4,7 +4,7 @@ title: AI for Public Health
 use-site-title: true
 ---
 
-# Speakers
+# Speakers and Panelists
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   {% for p in site.data.speakers %}
   {% if forloop.index<8 %}

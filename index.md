@@ -16,7 +16,7 @@ The COVID-19 pandemic has cast a spotlight on the importance of public health. E
 
 <hr>
 
-# Speakers
+# Speakers and Panelists
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
   {% for p in site.data.speakers %}

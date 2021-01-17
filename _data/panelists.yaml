@@ -1,0 +1,13 @@
+mihaela:
+  name: "Mihaela van der Schaar"
+  url: "https://www.vanderschaar-lab.com/"
+  affiliation: "University of Cambridge"
+  img: "mihaela.jpg"
+  bio: "Mihaela van der Schaar is John Humphrey Plummer Professor of Machine Learning, Artificial Intelligence and Medicine at the University of Cambridge, a Turing Faculty Fellow at The Alan Turing Institute in London, and a Chancellor’s Professor at UCLA. Mihaela was elected IEEE Fellow in 2009. She has received numerous awards, including the Oon Prize on Preventative Medicine fromthe University of Cambridge (2018), an NSF Career Award (2004), 3 IBM Faculty Awards, the IBM Exploratory Stream Analytics Innovation Award, the Philips Make a Difference Award and severalbest paper awards, including the IEEE Darlington Award. Mihaela’s work has also led to 35 USA patents (many widely cited and adopted in standards) and 45+ contributions to international standards for which she received 3 International ISO (International Organization for Standardization) Awards."
+
+ziad:
+  name: "Ziad Obermeyer"
+  url: "http://ziadobermeyer.com/"
+  affiliation: "UC Berkeley"
+  img: "ziad.jpg"
+  bio: "Ziad Obermeyer is the Blue Cross of California Distinguished Professor of Health Policy and Management in the School of Public Health at UC Berkeley, where he does research at the intersection of machine learning, medicine, and health policy. He was named an Emerging Leader by the National Academy of Medicine, and has received numerous awards including the Early Independence Award -- the National Institutes of Health’s most prestigious award for exceptional junior scientists -- and the Young Investigator Award from the Society for Academic Emergency Medicine. Previously, he was an Assistant Professor at Harvard Medical School. He continues to practice emergency medicine in underserved communities."
