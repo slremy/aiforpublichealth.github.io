@@ -54,18 +54,17 @@ The COVID-19 pandemic has cast a spotlight on the importance of public health. E
 
 # Mentorship
 
-<div class="container" style="margin-top: 20px;margin-bottom: 10px;">
-
 To build a stronger community for AI for Public Health and to encourage collaborations between researchers in the field, 
 we are hosting a Submission Mentorship Program. Through this program, our goal is to connect junior researchers 
 (mentees) planning to submit to our workshop with experienced mentors who can provide them with constructive 
 feedback and guidance on their work. We believe that such a mentorship scheme will also increase the impact and 
 quality of the workshop submissions and foster future collaborations between the mentors and mentees.
+</div>
 
 | ----------------------------------------------- |:--------------------:|
 | **Deadline for applying to be a mentor/mentee** | January 24th, 2021   |
 
-</div>
+
 
 <div class="container" style="margin-top: 20px;margin-bottom: 10px;">
 <a href="mentorship">More Info</a>
