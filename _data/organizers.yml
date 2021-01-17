@@ -1,0 +1,21 @@
+ioana:
+  name: "Ioana Bica"
+  url: "https://ioanabica.github.io/"
+  affiliation: "University of Oxford"
+  img: "ioana.jpg"
+marie:
+  name: "Marie Charpignon"
+  url: "https://idss.mit.edu/staff/marie-charpignon/"
+  affiliation: "MIT"
+  img: "marie.jpg"
+emma:
+  name: "Emma Pierson"
+  url: "https://cs.stanford.edu/~emmap1/"
+  affiliation: "Microsoft Research"
+  img: "emma.jpeg"
+bryan:
+  name: "Bryan Wilder*"
+  url: "https://bryanwilder.github.io/"
+  affiliation: "Harvard University"
+  img: "bryan.jpg"
+

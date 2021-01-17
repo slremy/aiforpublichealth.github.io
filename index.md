@@ -12,6 +12,7 @@ The COVID-19 pandemic has cast a spotlight on the importance of public health. E
 | ------------- |:-------------:|
 | **Submission** | February 26th, 2021   |
 | **Notification** | March 26th, 2021 |
+| **Workshop** | May 8th, 2021 |
 
 
 <hr>
@@ -45,14 +46,21 @@ The COVID-19 pandemic has cast a spotlight on the importance of public health. E
 <a href="speakers">More Info</a>
 </div>
 
+
 <hr>
 
 # Organizing Committee
 
-* Ioana Bica (University of Oxford)
-* Marie Charpignon (MIT)
-* Emma Pierson (Microsoft Research)
-* Bryan Wilder* (Harvard University)
+<!-- prettier-ignore -->
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+  <div class="row">
+    {% for p in site.data.organizers %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    {% endfor %}
+  </div>
+</div>
+<hr>
 
 \*primary contact: bryan.wilder0@gmail.com
 
