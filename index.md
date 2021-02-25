@@ -11,7 +11,7 @@ The COVID-19 pandemic has cast a spotlight on the importance of public health. E
 
 
 | ------------- |:-------------:|
-| **Submission** | February 26th, 2021   |
+| **Submission** | March 3rd, 2021   |
 | **Notification** | March 26th, 2021 |
 | **Workshop** | May 8th, 2021 |
 
