@@ -25,13 +25,13 @@ Examples of relevant topics for the workshop include (but are not limited to):
 
 These topics are intended to provide examples of questions in line with the workshop, not to provide an exhaustive list. We solicit papers across the full range from computation to applications from researchers in either field who are interested in engaging with an interdisciplinary community. 
 
-Papers should be at most **4 pages** in length, in ICLR format. Unlimited extra pages containing only references are also allowed. We welcome research which is in progress, submitted, or recently published (submissions already accepted in an archival venue should provide a link to the full paper). The workshop will not have an archival proceedings, but accepted papers will be posted on the website. We also welcome position papers which propose new questions or argue for a new perspective on this emerging field. Submissions will be considered for both posters and full-length contributed talks. Papers should be submitted on [easychair](https://easychair.org/conferences/?conf=iclrai4ph).
+Papers should be at most **4 pages** in length, in ICLR format. Unlimited extra pages containing only references are also allowed. An appendix may be included at the end of the document but consulting it is strictly optional for reviewers. We welcome research which is in progress, submitted, or recently published (submissions already accepted in an archival venue should provide a link to the full paper). The workshop will not have an archival proceedings, but accepted papers will be posted on the website. We also welcome position papers which propose new questions or argue for a new perspective on this emerging field. Submissions will be considered for both posters and full-length contributed talks. Papers should be submitted on [easychair](https://easychair.org/conferences/?conf=iclrai4ph).
 
 
 
 ### Important Dates 
 
-**Submission deadline:** February 26th, AoE <br>
+**Submission deadline:** March 3rd, AoE <br>
 **Notification:** March 26th <br>
 **Workshop:** May 8th
 
