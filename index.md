@@ -5,6 +5,7 @@ use-site-title: true
 ---
 
 # Overview
+**Update: the deadline for submissions is extended to March 3 (AoE)**
 
 The COVID-19 pandemic has cast a spotlight on the importance of public health. Even beyond this current emergency, public health is an essential component of population-level wellbeing. Topics such as infectious disease surveillance and control, preventative health, behavioral and mental health, maternal and child wellbeing, and more all play a crucial role in society. Moreover, a range of applications in public health benefit from careful use of data to uncover outbreak dynamics, learn patterns of behavior, optimize the design of interventions, and more. The science of machine learning in a public health context is still rapidly developing, and our aim is to build a community encompassing researchers based in both machine learning and public health to address these shared questions.
 
