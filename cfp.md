@@ -33,7 +33,7 @@ Papers should be at most **4 pages** in length, in ICLR format. Unlimited extra 
 
 **Submission deadline:** March 3rd, AoE <br>
 **Notification:** March 26th <br>
-**Workshop:** May 8th
+**Workshop:** May 7th
 
 ### Submission Requirements
 
